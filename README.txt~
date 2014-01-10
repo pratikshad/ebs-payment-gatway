@@ -1,7 +1,4 @@
 Steps to install:
-
 Upload the file civicrm_data.tpl into "sites/all/modules/civicrm/xml/templates/" This will add ebs taable into your database when you install Civicrm
-
 Upload the file 4.4.4.mysql.tpl into "sites/all/modules/civicrm/CRM/Upgrade/Incremental/sql/" this will add table of ebs into your datadabse when you upgrade the civicrm.
-
 Note:add the code of 4.4.4.mysql.tpl this file into grater version which you have currently .
